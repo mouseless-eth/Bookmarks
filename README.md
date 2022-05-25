@@ -15,4 +15,4 @@
 - [EVM.codes -> opcode breakdown + playground](https://www.evm.codes/)
 
 ### Yul Language
-- [Yul - Intermediate language for Ethereum by Alex Beregszaszi (Devcon4)](https://www.youtube.com/watch?v=j6N9rdJXqN8)
+- [Less Gas, More Fun: Optimising Smart Contracts through Yul]([https://www.youtube.com/watch?v=j6N9rdJXqN8](https://www.youtube.com/watch?v=VH4MgZDyZJU))
