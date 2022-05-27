@@ -13,6 +13,7 @@
 - [Deconstructing a solidity contract by OpenZeppelin](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
 - [Solidty inline assembly summary](https://github.com/ethereum/solidity/blob/develop/docs/assembly.rst#opcodes)
 - [EVM.codes -> opcode breakdown + playground](https://www.evm.codes/)
+- [Plydate with the EVM]https://femboy.capital/evm-pt1)
 
 ### Yul Language
 - [Less Gas, More Fun: Optimising Smart Contracts through Yul](https://www.youtube.com/watch?v=VH4MgZDyZJU)
