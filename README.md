@@ -17,3 +17,6 @@
 
 ### Yul Language
 - [Less Gas, More Fun: Optimising Smart Contracts through Yul](https://www.youtube.com/watch?v=VH4MgZDyZJU)
+
+### Cryptography
+- [Public Key Cryptography: Under the Hood](https://mirror.xyz/0x6afeB3d9E380787e7D0a17Fc3CA764Bb885014FA/SJwdsUSOBEDOYDdBwIsw46Ma8FfBEy9KTeU3Cskt68g)
